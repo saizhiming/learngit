@@ -1,1 +1,2 @@
-使用前，请先阅读我！
+Git is a version control system.
+Git is free software.
